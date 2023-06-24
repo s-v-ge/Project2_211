@@ -1,2 +1,2 @@
-# Project2_211
+# Wumpus Version 2
 TODO: change name, add readme, add desc
